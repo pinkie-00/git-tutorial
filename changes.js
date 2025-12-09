@@ -1,1 +1,1 @@
-console.log('add changes to the version');
+console.log('add changes to the version 1->2');
